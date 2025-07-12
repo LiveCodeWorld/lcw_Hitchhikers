@@ -35,7 +35,7 @@ end menu_CheckTarget
 --> Global | Hitchhikers | Menu
 -
 on menu_Hitchhikers dView
-   put the params
+   put h2g2_Content ("https://h2g2.com/entry/A88070231")
 end menu_Hitchhikers
 
 private on _
